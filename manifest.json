@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "hivemind",
+            "organisation": "lnbits",
+            "repository": "hivemind"
+        }
+    ]
+}
